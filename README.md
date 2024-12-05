@@ -12,7 +12,7 @@ Janna Rane Rosendo - 202111290@fit.edu.ph - FEU Institute of Technology
 - **Network**: Avalanche Fuji Testnet  
 - **Token Name**: DegenToken  
 - **Token Symbol**: DGN
-- 
+  
 ## Features  
 
 - **ERC20 Token Compliance**: Fully adheres to the ERC20 standard using OpenZeppelin's libraries.  
